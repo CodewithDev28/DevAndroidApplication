@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "997685941275",
+    "project_id": "cwdev-e7fcd",
+    "storage_bucket": "cwdev-e7fcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997685941275:android:8e5d547813bf8a520ad4be",
+        "android_client_info": {
+          "package_name": "com.example.layout"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnRif5WvuCn34EEPLi63F_BEBg1G2LSJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

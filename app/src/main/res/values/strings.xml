@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Dev</string>
+    <string name="text1">Code With Dev</string>
+    <string name="btn">Button</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+    <string name="mobilenumber">Mobile Number</string>
+    <string name="password">Password</string>
+    <string name="signup">SignUp</string>
+    <string name="signin">Sign In</string>
+    <string name="validname">Please Enter Valid Name</string>
+    <string name="validpassword">Please Enter Valid Password</string>
+    <string name="validmobilenumber">Please Enter Valid Mobile Number</string>
+    <string name="test">Test</string>
+    <string name="loginsuccess">Logged In Successfully</string>
+    <string name="loginfail">Failed to Login</string>
+    <string name="userexists">User already found</string>
+    <string name="welcome">Welcome Back</string>
+    <string name="usernotexists">User Not Found</string>
+</resources>
